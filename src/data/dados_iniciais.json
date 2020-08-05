@@ -1,0 +1,173 @@
+{
+  "categorias": [
+    {
+      "titulo": "Resumos de Livros",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Shanks",
+          "url": "https://www.youtube.com/watch?v=vt6MrqNDIDw"
+        },
+        {
+          "titulo": "Pai Rico Pai Pobre",
+          "url": "https://www.youtube.com/watch?v=Mx6EEpsIE5w&t=220s"
+        },
+        {
+          "titulo": "O homem mais rico da babilônia",
+          "url": "https://www.youtube.com/watch?v=d6CI30Y_iSU"
+        },
+        {
+          "titulo": "Poder do hábito",
+          "url": "https://www.youtube.com/watch?v=9BtrLf6PfYY"
+        },
+        {
+          "titulo": "Investidor Inteligente",
+          "url": "https://www.youtube.com/watch?v=ZAT8Wzv1krk"
+        },
+        {
+          "titulo": "Faça fortuna com ações",
+          "url": "https://www.youtube.com/watch?v=Nfnz8y8Wx9U"
+        },
+        {
+          "titulo": "O Segredo da mente milionária",
+          "url": "https://www.youtube.com/watch?v=_FPxHuA5A68"
+        }   
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Animes clique aqui",
+        "url": "https://www.crunchyroll.com/pt-br/videos/anime"
+      },
+      "videos": [
+        {
+          "titulo": "One Piece",
+          "url": "https://www.youtube.com/watch?v=S8_YwFLCh4U"
+        },
+        {
+          "titulo": "Demon Slayer",
+          "url": "https://www.youtube.com/watch?v=ATJYac_dORw"
+        },
+        {
+          "titulo": "Hunter x Hunter",
+          "url": "https://www.youtube.com/watch?v=99q9j6PRegQ"
+        },
+        {
+          "titulo": "Death Note",
+          "url": "https://www.youtube.com/watch?v=LM1VWi1-br8"
+        }, 
+        {
+          "titulo": "Naruto",
+          "url": "https://www.youtube.com/watch?v=thh7bVCgDHs"
+        }
+      ]
+    },
+    {
+      "titulo": "Series",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Game of Thrones",
+          "url": "https://www.youtube.com/watch?v=rDHuyRyGuFQ"
+        },
+        {
+          "titulo": "Vikings",
+          "url": "https://www.youtube.com/watch?v=dKf-nmEzecA"
+        },
+        {
+          "titulo": "Peaky Blinders",
+          "url": "https://www.youtube.com/watch?v=oVzVdvGIC7U"
+        },
+        {
+          "titulo": "Mr Robot",
+          "url": "https://www.youtube.com/watch?v=8qZYW_1hj2g"
+        },
+        {
+          "titulo": "Breaking Bad",
+          "url": "https://www.youtube.com/watch?v=2-W6_6gJda0"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Inception",
+          "url": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+        },
+        {
+          "titulo": "Senhor dos Aneis",
+          "url": "https://www.youtube.com/watch?v=0i86oM1nHjM"
+        },
+        {
+          "titulo": "Matrix",
+          "url": "https://www.youtube.com/watch?v=2KnZac176Hs"
+        },
+        {
+          "titulo": "Rastros de um Sequestro",
+          "url": "https://www.youtube.com/watch?v=OSgX2EHAxOU"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Fifa",
+          "url": "https://www.youtube.com/watch?v=wFfOxfyElBU"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
