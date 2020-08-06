@@ -34,8 +34,7 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    console.log('teste teste teste efeito');
-    const URL = 'http://localhost:8080/categorias';
+    const URL = window.location.hostname.includes('localhost') ? 'http://localhost:8080/categorias' : 'https://mynetflixsilveira.herokuapp.com/categorias';
     fetch(URL).then(async (respostaServidor) => {
       const jsonResposta = await respostaServidor.json();
       setCategorias([
